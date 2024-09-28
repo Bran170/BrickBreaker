@@ -1,2 +1,2 @@
 # BrickBreaker
-a working version of the classic arcade game BrickBreaker, written in java 
+This is a java version of the classic arcade game BrickBreaker. It implements Java Swing to create the GUI. 
